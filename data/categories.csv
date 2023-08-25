@@ -1,0 +1,151 @@
+id,code,active,title_fa,supply_category_id,leaf,product_types,created_at
+9255,Clothing-Accessories,0,اکسسوری لباس,10129,1,"[""product"",""giftcard"",""no_direct_order""]",2018-09-09 17:54:39.0000000
+6863,baby-food-containers,0,ظرف غذای کودک و نوزاد,10454,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-24 17:01:56.0000000
+9307,women-maternity-trousers-and-jumpsuits,1,شلوار و سرهمی بارداری,8881,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-16 18:39:39.0000000
+10799,corn,1,ذرت,9180,1,"[""product"",""giftcard"",""no_direct_order""]",2022-02-21 12:33:30.0000000
+9716,girls-brooch,1,گل سینه دخترانه,10161,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:24:42.0000000
+6147,safetyequipment,0,ایمنی و کار,NULL,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-30 08:35:27.0000000
+6152,train,1,قطار,7848,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-12 15:48:34.0000000
+9920,Uni-Pendants-Sets,0,ست آویز زنانه و مردانه,10113,1,"[""product"",""giftcard"",""no_direct_order""]",2019-05-20 14:53:09.0000000
+9847,espresso-coffee,1,قهوه اسپرسو,9183,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-22 14:51:42.0000000
+6363,peppergrinder,1,آسیاب نمک و فلفل,9154,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-10 12:31:56.0000000
+4580,presenter,1,پرزنتر,10441,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-13 08:48:48.0000000
+10292,girls-suit,0,کت و شلوار دخترانه,10342,1,"[""product"",""giftcard"",""no_direct_order""]",2021-02-21 15:05:53.0000000
+10035,net,1,توری,9051,1,"[""product"",""giftcard"",""no_direct_order""]",2019-08-17 11:06:42.0000000
+6435,wallet,1,کیف پول سفری,9127,1,"[""product"",""giftcard"",""no_direct_order""]",2018-07-07 17:09:18.0000000
+6657,body-care,1,بهداشت و مراقبت بدن,NULL,0,NULL,2018-06-12 17:02:40.0000000
+9294,women-dresses,1,پیراهن و لباس مجلسی زنانه,8849,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-16 18:07:01.0000000
+3,laptop,1,لپ تاپ,NULL,0,NULL,2017-08-07 15:49:34.0000000
+9612,kids-boots,1,بوت نوزاد,10122,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 09:29:35.0000000
+9397,women-gold-watch-pendant,1,آویز ساعت طلا زنانه,10067,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 16:43:50.0000000
+9728,girls-scarves,1,شال و روسری دخترانه,10163,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:28:49.0000000
+6784,promenade-and-travel-accessories,1,گردش و سفر,NULL,0,NULL,2015-10-10 18:33:53.0000000
+6760,health-and-bathroom-tools,1,بهداشت و حمام,NULL,0,NULL,2015-10-10 18:33:51.0000000
+8500,camshaft-and-crankshaft,1,میل لنگ و میل بادامک,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-08-20 10:11:02.0000000
+9267,other-store-equipment,1,سایر تجهیزات فروشگاهی,10441,1,"[""product"",""giftcard"",""no_direct_order""]",2018-09-26 13:54:49.0000000
+74,handsfree,0,هندزفری,10305,1,"[""product"",""giftcard"",""no_direct_order""]",2018-04-07 10:34:55.0000000
+9796,boys-sandals,1,صندل پسرانه,10184,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 11:04:17.0000000
+9518,men-silver-jewelry-sets,1,ست زیورآلات نقره مردانه,10101,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 18:31:25.0000000
+9492,men-gifts-sets,1,ست هدیه مردانه,10094,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 18:21:20.0000000
+10151,fresh-sweet,1,شیرینی تر و خامه‌ای,10315,1,"[""product""]",2021-01-04 11:14:34.0000000
+6540,clear-gel-deodorant,1,ژل شفاف ضد تعریق,9148,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-07 11:47:13.0000000
+8266,decorations-for-gardening,1,لوازم تزئینی باغبانی,9149,1,"[""product"",""giftcard"",""no_direct_order""]",2016-07-26 12:52:20.0000000
+8516,connecting-rod,1,شاتون,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2018-07-10 09:37:13.0000000
+8282,hood,1,هود,10460,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-14 12:55:49.0000000
+10346,local-caviar,1,خاویار ارگانیک,10360,1,"[""product""]",2021-03-13 14:18:29.0000000
+10165,children-accessories,0,اکسسوری بچگانه,NULL,0,NULL,2021-01-31 14:03:04.0000000
+6062,office-accessories,1,لوازم جانبی اداری,NULL,0,NULL,2015-06-13 09:13:07.0000000
+10937,baby-check-pregnancy-test,0,بیبی چک و تست بارداری,10455,1,"[""product"",""giftcard"",""no_direct_order""]",2022-03-02 13:20:33.0000000
+6757,accessories-packing,1,لوازم بسته بندی,9149,1,"[""product"",""giftcard"",""no_direct_order""]",2017-12-12 14:01:17.0000000
+9748,boys-clothing,1,پسرانه,NULL,0,NULL,2018-10-20 10:36:30.0000000
+8729,water-heater,1,آبگرمکن,10459,1,"[""product"",""giftcard"",""no_direct_order""]",2018-02-05 10:36:46.0000000
+6825,men-socks,1,جوراب ورزشی مردانه,10298,1,"[""product""]",2015-10-17 14:50:06.0000000
+10299,maternity-manteau,0,مانتو بارداری,10334,1,"[""product"",""giftcard"",""no_direct_order""]",2021-02-22 11:14:07.0000000
+6510,eye-and-eyebrow-accessories,1,برس ها و تجهیزات آرایشی چشم و ابرو,7166,1,"[""product"",""giftcard"",""no_direct_order""]",2015-05-04 18:34:00.0000000
+8501,cylinder-head,1,سرسیلندر,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-05-30 16:00:05.0000000
+6524,percussion-instruments,1,سازهای کوبه‌ای,NULL,0,NULL,2016-11-14 13:10:29.0000000
+6597,nail-diamonds,1,آویز و نگین ناخن,9139,1,"[""product"",""giftcard"",""no_direct_order""]",2015-05-30 10:51:29.0000000
+6253,ironingac,1,لوازم اتو,NULL,0,NULL,2016-11-14 10:42:56.0000000
+8694,ups-battery,1,باتری UPS,10437,1,"[""product"",""giftcard"",""no_direct_order""]",2017-12-25 11:34:25.0000000
+10610,flavored-yogurt,1,ماست طعم‌ دار,10017,1,"[""product"",""giftcard"",""no_direct_order""]",2022-01-01 16:09:05.0000000
+6427,vacuumstoragebag,1,کیسه وکیوم,9158,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-12 16:03:40.0000000
+8508,freewheeling,1,هرزگرد,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-05-18 12:41:02.0000000
+6103,sleeping-bag,1,کیسه خواب,10466,1,"[""product"",""giftcard"",""no_direct_order""]",2017-08-12 13:27:46.0000000
+1321,sd-card,0,کارت حافظه‌ی SD,NULL,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-12 15:50:09.0000000
+5849,healthy-watches,0,ساعت تندرستی,9197,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-28 12:42:39.0000000
+6790,baby-decorative-lamp,1,چراغ خواب کودک و نوزاد,9131,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-12 10:26:28.0000000
+11145,women-sport-wear,1,لباس ورزشی زنانه,NULL,0,NULL,2023-07-17 12:24:21.0000000
+8719,pet-supplies1,1,حیوانات خانگی,NULL,0,NULL,2017-11-20 14:08:44.0000000
+6591,anti-spot-repairing-cream,1,کرم ضد لک,9163,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-07 11:29:51.0000000
+10443,women-traditional-rings,1,انگشتر دست‌ساز زنانه,10070,1,"[""product"",""giftcard"",""no_direct_order""]",2021-04-21 11:56:07.0000000
+9016,targeting-sports,1,ورزش های نشانه‌ روی,NULL,0,NULL,2018-07-10 09:38:22.0000000
+6283,pastrytools,1,ابزار تهیه کیک و دسر,7546,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-10 12:20:52.0000000
+6079,lawnmower,1,چمن زن برقی/موتوری,9149,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-17 06:20:52.0000000
+9780,boys-swimwear,1,لباس شنا پسرانه,NULL,0,NULL,2018-10-20 10:58:31.0000000
+10602,milk,1,شیر,NULL,0,"[""product"",""giftcard"",""no_direct_order""]",2022-01-01 14:49:04.0000000
+10045,typing-machine,1,ماشین‌های تایپ,9109,1,"[""product"",""giftcard"",""no_direct_order""]",2019-09-17 16:23:57.0000000
+8140,dulcimer,1,سنتور,9058,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-14 11:39:00.0000000
+10472,water-purifier-filter,1,فیلتر تصفیه کننده آب,7730,1,"[""product""]",2021-05-25 17:26:56.0000000
+10378,men-wooden-handmade-ring,0,انگشتر چوبی دست‌ساز مردانه,10098,1,"[""product"",""giftcard"",""no_direct_order""]",2021-04-17 12:55:18.0000000
+6255,cookwareset,1,سرویس پخت و پز,9153,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-14 11:38:29.0000000
+8990,ultrasonic-bath,1,حمام آلتراسونیک,10471,1,"[""product"",""giftcard"",""no_direct_order""]",2018-02-05 15:06:47.0000000
+8189,car-security-systems,1,امنیت خودرو,NULL,0,NULL,2017-01-17 06:00:09.0000000
+10805,breakfast-cereal,1,غلات صبحانه,NULL,0,"[""product"",""giftcard"",""no_direct_order""]",2022-02-21 13:20:45.0000000
+10344,rural-fish,1,ماهی تازه,10358,1,"[""product""]",2021-03-13 14:15:36.0000000
+8574,otoscope,1,اتوسکوپ,10456,1,"[""product"",""giftcard"",""no_direct_order""]",2017-06-13 12:37:30.0000000
+6571,air-compressor-accessorries,1,لوازم جانبی کمپرسور هوا,9126,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-17 06:17:50.0000000
+8101,lock,1,قفل,9140,1,"[""product"",""giftcard"",""no_direct_order""]",2016-04-05 16:06:59.0000000
+6602,picture-frame,1,قاب عکس دست‌ساز,9160,1,"[""product"",""giftcard"",""no_direct_order""]",2018-01-16 15:20:02.0000000
+6124,sport-entertainment,1,ورزش و سفر,NULL,0,NULL,2018-01-14 16:40:01.0000000
+6572,trombone,1,ترومبون,9058,1,"[""product"",""giftcard"",""no_direct_order""]",2015-05-23 14:55:40.0000000
+9789,boys-underwear-tops,1,زیرپوش پسرانه,10178,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 11:01:22.0000000
+6116,stretching-tools,1,تجهیزات جانبی ایروبیک و تناسب اندام,9150,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-10 13:06:38.0000000
+10556,printed-history-and-geography-book,1,کتاب تاریخ و جغرافیا,9121,1,"[""product""]",2021-09-18 10:20:06.0000000
+9985,women-bullion,0,شمش و پلاک طلا,10067,1,"[""product"",""giftcard"",""no_direct_order""]",2019-05-29 18:50:22.0000000
+9671,girls-swimsuit,1,مایو یک تکه دخترانه,10138,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:00:19.0000000
+9493,men-gloves-mittens,1,دستکش مردانه,10095,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 18:21:35.0000000
+10296,women-party-wear,0,لباس مجلسی زنانه,10332,1,"[""product"",""giftcard"",""no_direct_order""]",2021-02-22 10:25:13.0000000
+9656,girls-sportswear,1,لباس ورزشی دخترانه,NULL,0,NULL,2018-10-20 09:53:56.0000000
+8704,patch-panel,1,پچ پنل,10437,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-25 10:26:35.0000000
+109,camera-lens,1,لنز دوربین,9122,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-13 09:17:45.0000000
+9782,boys-wetsuit,0,لباس غواصی پسرانه,10175,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:59:08.0000000
+6787,baby-humidifier,0,دستگاه بخور کودک و نوزاد,9145,1,"[""product"",""giftcard"",""no_direct_order""]",2018-04-24 16:49:57.0000000
+10300,girls-poncho,0,پانچو دخترانه,10344,1,"[""product"",""giftcard"",""no_direct_order""]",2021-02-22 11:43:14.0000000
+5832,treatment,1,مکمل تجهیزات پزشکی,10470,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-14 11:09:11.0000000
+8551,immobilizer-kit,1,کیت ایموبلایزر,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-05-03 12:52:44.0000000
+8655,car-lock,1,قفل خودرو,9161,1,"[""product"",""giftcard"",""no_direct_order""]",2017-08-02 23:10:11.0000000
+10536,cables,0,انواع کابل,NULL,0,NULL,2021-08-02 13:12:20.0000000
+8674,external-accessories,1,لوازم بیرونی خودرو,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-22 10:05:00.0000000
+10303,boys-sweatshirts,0,سویشرت پسرانه,10345,1,"[""product"",""giftcard"",""no_direct_order""]",2021-02-22 13:21:19.0000000
+10529,computer-pieces,0,قطعات کامپیوتر,NULL,0,NULL,2021-08-02 13:01:25.0000000
+6851,children-and-baby-footwear,0,جوراب و پاپوش کودک و نوزاد,9167,1,"[""product"",""giftcard"",""no_direct_order""]",2018-01-14 14:43:14.0000000
+11095,dog-food,0,غذای سگ,NULL,0,NULL,2023-04-04 10:46:45.0000000
+88,tablet-stand,1,استند تبلت,10303,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-09 17:05:50.0000000
+10875,sirup,1,شربت,9183,1,"[""product"",""giftcard"",""no_direct_order""]",2022-02-22 17:44:51.0000000
+5950,special-items,0,محصولات ویژه گروه موبایل و تبلت,9101,1,"[""product"",""giftcard"",""no_direct_order""]",2018-05-06 09:58:49.0000000
+5965,case-for-iphone-6,0,کیف و کاور گوشی iPhone 6,NULL,1,"[""product"",""giftcard"",""no_direct_order""]",2017-12-12 16:20:32.0000000
+8946,kamancheh,1,کمانچه,9058,1,"[""product"",""giftcard"",""no_direct_order""]",2018-02-05 10:31:16.0000000
+8498,cylinder-gasket,1,واشر سرسیلندر,8641,1,"[""product"",""giftcard"",""no_direct_order""]",2017-05-30 16:02:23.0000000
+9753,boys-vest,1,جلیقه رسمی پسرانه,8893,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:41:08.0000000
+10191,rural-mirror-candlestick,1,آینه و شمعدان سنتی,9160,1,"[""product""]",2021-02-13 10:25:46.0000000
+10370,irancell-sim-card,1,سیم‌کارت ایرانسل,10314,1,"[""product"",""giftcard"",""no_direct_order"",""irancell_simcard""]",2021-04-14 15:39:08.0000000
+5975,paper-notebook,1,دفتر و کاغذ و مقوا,NULL,0,NULL,2014-10-01 18:18:00.0000000
+8228,lock-accessory,1,قفل دوچرخه,10467,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-02 12:40:00.0000000
+10177,rural-carpets-and-rugs,1,قالی و قالیچه,NULL,0,NULL,2021-02-03 10:50:23.0000000
+8699,load-balancer,1,لود بالانسر,9116,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-28 14:18:25.0000000
+5952,laptop-special-items,0,محصولات ویژه گروه لپ تاپ,7271,1,"[""product"",""giftcard"",""no_direct_order""]",2018-04-24 16:31:03.0000000
+6485,mascara,1,ریمل,9162,1,"[""product"",""giftcard"",""no_direct_order""]",2018-01-29 12:20:40.0000000
+10448,women-traditional-half-set,1,نیم ست زیورآلات دست‌ساز زنانه,10070,1,"[""product"",""giftcard"",""no_direct_order""]",2021-04-22 13:01:55.0000000
+39,telephone,1,تلفن,10438,1,"[""product"",""giftcard"",""no_direct_order""]",2018-06-12 17:03:38.0000000
+10894,tea,1,چای,NULL,0,NULL,2022-02-22 18:25:22.0000000
+10599,flavored-cream,1,خامه طعم‌ دار,10035,1,"[""product"",""giftcard"",""no_direct_order""]",2022-01-01 14:07:30.0000000
+8255,fire-extinguishers,1,کپسول آتش‌نشانی,8124,1,"[""product"",""giftcard"",""no_direct_order""]",2016-12-05 11:38:41.0000000
+10889,cacao-powder,1,پودر کاکائو,9180,1,"[""product"",""giftcard"",""no_direct_order""]",2022-02-22 18:11:02.0000000
+9527,men-wallets-bags,1,کیف پول مردانه,10105,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 18:42:14.0000000
+6122,darts,1,دارت,9150,1,"[""product"",""giftcard"",""no_direct_order""]",2016-11-12 10:34:13.0000000
+8271,digital-multitrack-recorder,0,مولتی ترک رکوردر,9103,1,"[""product"",""giftcard"",""no_direct_order""]",2017-12-13 13:40:13.0000000
+10093,carpet-kilim,1,گلیم فرش,8064,1,"[""product""]",2020-05-26 11:43:51.0000000
+5928,incar-accessories,1,لوازم جانبی صوتی و تصویری خودرو,10321,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-17 06:08:33.0000000
+6930,breath-freshener,0,قرص خوشبو کننده,8008,1,"[""product"",""giftcard"",""no_direct_order""]",2017-02-07 16:13:23.0000000
+8273,head-gear,1,سر دنده,9161,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-17 06:07:44.0000000
+6739,ladders,1,نردبان,9170,1,"[""product"",""giftcard"",""no_direct_order""]",2017-01-17 06:17:57.0000000
+6780,hat-and-bib,0,کلاه و پیشبند نوزاد,9167,1,"[""product"",""giftcard"",""no_direct_order""]",2018-01-14 14:43:10.0000000
+3354,adapter,1,آداپتور شبکه,10436,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-13 08:21:50.0000000
+10513,sugar-powder-and-cube,0,قند و شکر,NULL,0,NULL,2021-08-02 11:26:14.0000000
+10320,rural-dairy,1,لبنیات سنتی,NULL,0,NULL,2021-03-10 17:18:15.0000000
+162,digital-scale,1,ترازو,10470,1,"[""product"",""giftcard"",""no_direct_order""]",2017-08-12 15:58:24.0000000
+10780,french-sauce,1,سس فرانسوی,9180,1,"[""product"",""giftcard"",""no_direct_order""]",2022-02-21 11:51:05.0000000
+9468,men-wetsuit,1,لباس غواصی مردانه,10080,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-17 18:02:27.0000000
+11071,door-accessories,1,دستگیره در و یراق آلات,9051,1,"[""product"",""giftcard"",""no_direct_order""]",2023-02-28 15:56:13.0000000
+6623,book-point,1,نشانگر کتاب,9109,1,"[""product"",""giftcard"",""no_direct_order""]",2015-06-18 10:46:54.0000000
+5,office-machines,1,ماشین های اداری,NULL,0,NULL,2016-11-14 12:59:25.0000000
+8706,atm-keypad,1,صفحه کلید دستگاه های خودپرداز,9062,1,"[""product"",""giftcard"",""no_direct_order""]",2017-10-28 14:17:44.0000000
+8407,laser-distance-measurer,1,متر لیزری,9170,1,"[""product"",""giftcard"",""no_direct_order""]",2016-12-07 15:24:34.0000000
+9721,girls-keyring-and-keychain,1,جاکلیدی دخترانه,10237,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-20 10:26:15.0000000
+9846,peanut-butter,1,کره بادام زمینی,9184,1,"[""product"",""giftcard"",""no_direct_order""]",2018-10-22 14:39:57.0000000
+8764,mens-trousers,0,شلوار مردانه,8921,1,"[""product"",""giftcard"",""no_direct_order""]",2018-06-17 16:03:20.0000000
+10582,barberries,1,زرشک,9180,1,"[""product"",""giftcard"",""no_direct_order""]",2021-11-29 13:17:58.0000000
+10883,green-raisins,1,کشمش سبز,9182,1,"[""product"",""giftcard"",""no_direct_order""]",2022-02-22 17:56:47.0000000
+8160,hand-blender,1,گوشت کوب برقی,9142,1,"[""product"",""giftcard"",""no_direct_order""]",2016-06-07 15:08:39.0000000
+6973,traditional-sewing,0,رودوزی های سنتی,NULL,0,NULL,2016-11-12 10:41:56.0000000
+8366,bench,1,نیمکت,10473,1,"[""product"",""giftcard"",""no_direct_order""]",2017-04-29 15:10:34.0000000
